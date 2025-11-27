@@ -16,3 +16,12 @@ h1 {
     font-style: italic;
 }
 
+button {
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+}
